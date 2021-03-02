@@ -1,0 +1,13 @@
+name: curl test
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download RPM packages
+        run: xargs -n 1 curl -sSLO < urls.txt
