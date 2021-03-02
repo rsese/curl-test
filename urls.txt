@@ -1,0 +1,3 @@
+https://download.fedoraproject.org/pub/epel/8/Everything/x86_64/Packages/s/strongswan-5.8.2-5.el8.x86_64.rpm
+https://download.fedoraproject.org/pub/epel/8/Everything/x86_64/Packages/o/openvpn-2.4.10-1.el8.x86_64.rpm
+https://download.fedoraproject.org/pub/epel/8/Everything/x86_64/Packages/p/pkcs11-helper-1.22-7.el8.x86_64.rpm
